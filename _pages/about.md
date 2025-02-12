@@ -28,5 +28,3 @@ latest_posts:
 ---
 
 Elias Dinas holds the Swiss Chair in Federalism, Democracy and International Governance. He holds a PhD in Political Science from the European University Institute (2010) and his research interests include the dynamics of political socialization, the downstream effects of institutional interventions and the legacy of authoritarian rule on the ideological predispositions of citizens in new democracies. He has also a keen interest in research methodology. His work has been published, among others, in the American Political Science Review, the American Journal of Political Science, the Journal of Politics, and Political Analysis and mentioned in The Economist, the Atlantic and the New York Times.
-
-You can access my institutional profile [here]().
