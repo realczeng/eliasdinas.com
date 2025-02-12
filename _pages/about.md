@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Swiss Chair in Federalism, Democracy and International Governance, <a href='https://www.eui.eu/people?id=elias-dinas'>European University Institute</a>
 
