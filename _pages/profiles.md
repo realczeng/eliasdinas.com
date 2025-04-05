@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: People
-description: members of the lab or group
+title: POSTNORM Team
+description: Members of the POSTNORM team
 nav: true
 nav_order: 7
 
